@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/wxWidget_Test/HelloWorldApp.h
+
+/home/pi/Desktop/wxWidget_Test/main.cpp
+wx-3.1/wx/wxprec.h
+/home/pi/Desktop/wxWidget_Test/wx-3.1/wx/wxprec.h
+wx-3.1/wx/wx.h
+/home/pi/Desktop/wxWidget_Test/wx-3.1/wx/wx.h
+HelloWorldApp.h
+/home/pi/Desktop/wxWidget_Test/HelloWorldApp.h
+

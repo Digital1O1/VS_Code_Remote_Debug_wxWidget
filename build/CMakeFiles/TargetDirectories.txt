@@ -1,0 +1,3 @@
+/home/pi/Desktop/wxWidget_Test/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/wxWidget_Test/build/CMakeFiles/wx_Hello_World.dir
+/home/pi/Desktop/wxWidget_Test/build/CMakeFiles/edit_cache.dir
